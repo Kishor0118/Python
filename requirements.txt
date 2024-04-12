@@ -1,0 +1,13 @@
+os
+sys
+Pillow
+geocoder
+geopy
+img2pdf
+requests
+numpy
+pandas
+pytz
+requests
+swisseph
+timezonefinder
